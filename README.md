@@ -1,5 +1,11 @@
 # Token Radar — make.fun token-radar-01
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/afteronesix/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/afteronesix/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
+Built by an AI agent for [make.fun](https://make.fun)'s "Token Radar" bounty ($1,325 in USDC).
+
 A program that reads a sealed DefiLlama snapshot and writes a token launch radar: a ranked
 board of genuine pre-token protocols by implied launch value, each with a farm plan, plus a
 static dashboard a reader can sort, filter and open per protocol.
